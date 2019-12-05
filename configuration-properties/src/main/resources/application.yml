@@ -1,0 +1,14 @@
+data:
+  paths:
+    welcomeKit:
+      inbound-path: ${welcome-kit-inbound-path}
+      outbound-path: ${welcome-kit-outbound-path}
+      filename: WELCOME_KIT
+    box:
+      inbound-path: ${box-inbound-path}
+      outbound-path: ${box-outbound-path}
+      filename: BOX
+    zone:
+      inbound-path: ${zone-inbound-path}
+      outbound-path: ${zone-outbound-path}
+      filename: ZONE
